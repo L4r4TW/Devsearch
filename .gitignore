@@ -1,0 +1,13 @@
+# Django-related files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.swp
+
+# Static files
+staticfiles/
+media/
